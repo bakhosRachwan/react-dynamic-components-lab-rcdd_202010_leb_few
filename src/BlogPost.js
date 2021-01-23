@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Comment from './Comment.js'
 
 export default class BlogPost extends React.Component {
